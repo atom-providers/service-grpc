@@ -3,7 +3,6 @@ package serviceGrpc
 import (
 	grpcServer "github.com/atom-providers/grpc-server"
 	"github.com/rogeecn/atom/container"
-	"github.com/rogeecn/atom/contracts"
 	"go.uber.org/dig"
 )
 
@@ -11,7 +10,7 @@ type GrpcService struct {
 	dig.In
 
 	Server   *grpcServer.Grpc
-	Services []contracts.ServerService `group:"grpc_server_services"`
+	Services []grpcServer.ServerService `group:"grpc_server_services"`
 }
 
 func Serve() error {
