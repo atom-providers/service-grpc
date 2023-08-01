@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/atom-providers/grpc-server v0.0.0-20230731090718-2eb0ee6d0413
-	github.com/atom-providers/log v0.0.0-20230731092540-8420d8886fa0
+	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
 	github.com/rogeecn/atom v1.0.3
 	go.uber.org/dig v1.17.0
 )
@@ -18,7 +18,6 @@ require (
 	github.com/pelletier/go-toml/v2 v2.0.9 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/rogeecn/atom-addons/providers/log v0.0.0-20230717084320-362ebc474705 // indirect
-	github.com/rogpeppe/go-internal v1.10.0 // indirect
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
@@ -34,7 +33,6 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc // indirect
 	google.golang.org/grpc v1.56.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
-	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
