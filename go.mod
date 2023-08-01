@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/atom-providers/grpc-server v0.0.0-20230731090718-2eb0ee6d0413
 	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
-	github.com/rogeecn/atom v1.0.4
+	github.com/rogeecn/atom v1.0.6
 	go.uber.org/dig v1.17.0
 )
 
