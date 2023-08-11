@@ -38,6 +38,8 @@ cloud.google.com/go/storage v1.14.0/go.mod h1:GrKmX003DSIwi9o29oFT7YDnHYwZoctc3f
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
+github.com/atom-providers/app v0.0.0-20230811021217-98a085634a0a h1:OFORaEhggBc4fDVztn2RGKUgAD5SiZcYFuKuMN0AUFk=
+github.com/atom-providers/app v0.0.0-20230811021217-98a085634a0a/go.mod h1:jEyNiOX15rOckt6/6IubcXp6fjj+s0y6xykMnRnBbfg=
 github.com/atom-providers/grpc-server v0.0.0-20230731090718-2eb0ee6d0413 h1:u6moYi3cY3alCN2gKB1Fm5liKJ82tydGhnig7p/doQk=
 github.com/atom-providers/grpc-server v0.0.0-20230731090718-2eb0ee6d0413/go.mod h1:llKxPLM2pNU63wsEqilyomhmltdzUG0sJw/fuqTywvg=
 github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343 h1:BNb31rRFp5CzPj+2roXvCXY40J2J1nagWwseGHfF4cA=
